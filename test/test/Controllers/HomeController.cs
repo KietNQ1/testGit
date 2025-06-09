@@ -22,6 +22,7 @@ namespace test.Controllers
         {
             return View();
             //test git
+            //hi
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
