@@ -21,6 +21,7 @@ namespace test.Controllers
         public IActionResult Privacy()
         {
             return View();
+            //test git
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
