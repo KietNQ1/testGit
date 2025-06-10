@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SU25\\test\\test\\test.csproj": {}
+    "E:\\FPT\\SWP\\FinalProject\\testGit\\test\\test\\test.csproj": {}
   },
   "projects": {
-    "E:\\SU25\\test\\test\\test.csproj": {
+    "E:\\FPT\\SWP\\FinalProject\\testGit\\test\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SU25\\test\\test\\test.csproj",
+        "projectUniqueName": "E:\\FPT\\SWP\\FinalProject\\testGit\\test\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "E:\\SU25\\test\\test\\test.csproj",
-        "packagesPath": "C:\\Users\\KIET\\.nuget\\packages\\",
-        "outputPath": "E:\\SU25\\test\\test\\obj\\",
+        "projectPath": "E:\\FPT\\SWP\\FinalProject\\testGit\\test\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\Huan\\.nuget\\packages\\",
+        "outputPath": "E:\\FPT\\SWP\\FinalProject\\testGit\\test\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\KIET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Huan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
