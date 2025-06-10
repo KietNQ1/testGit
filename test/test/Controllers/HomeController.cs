@@ -14,6 +14,7 @@ namespace test.Controllers
         }
         //huy
         //huyyyy22
+        ///kkkkk
         public IActionResult Index()
         {
             return View();
