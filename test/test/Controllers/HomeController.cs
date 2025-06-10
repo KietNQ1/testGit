@@ -13,6 +13,7 @@ namespace test.Controllers
             _logger = logger;
         }
         //huy
+        //huyyyy22
         public IActionResult Index()
         {
             return View();
