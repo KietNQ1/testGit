@@ -12,7 +12,7 @@ namespace test.Controllers
         {
             _logger = logger;
         }
-
+        //huy
         public IActionResult Index()
         {
             return View();
